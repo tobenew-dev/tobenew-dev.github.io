@@ -1,0 +1,32 @@
+{
+ "name": "교대 근무자 스케줄러",
+ "short_name": "근무스케줄러",
+ "description": "교대 근무표 자동 완성, 동료와 겹치는 쉬는 날 찾기",
+ "lang": "ko",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#E9ECF5",
+ "theme_color": "#2F6BE0",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
