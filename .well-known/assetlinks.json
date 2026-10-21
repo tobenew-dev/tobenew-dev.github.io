@@ -1,10 +1,8 @@
-[
- {
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-   "namespace": "android_app",
-   "package_name": "com.tobenew.shiftplanmaster",
-   "sha256_cert_fingerprints": ["여기에_Play_Console의_SHA-256_인증서_지문을_붙여넣기"]
-  }
- }
-]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.tobenew.shiftplanmaster",
+        "sha256_cert_fingerprints": ["B2:CE:53:80:1A:CB:A5:CD:B7:18:98:5F:5B:67:8F:78:EF:4E:12:D4:54:57:66:00:A2:5F:06:1D:D6:3F:23:E7"]
+      }
+    }]
